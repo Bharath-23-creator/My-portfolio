@@ -41,7 +41,7 @@ export default function Home() {
      <div className="row">
     <div className="col-md-12 d-flex justify-content-end">
       <img 
-        src='./src/assets/Profile.jpg'
+        src='/Profile.jpg'
         className=" profile img-fluid shadow-lg"
         style={{ maxHeight:'350px',objectFit: "cover" }}
       />
