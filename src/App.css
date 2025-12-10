@@ -1,0 +1,77 @@
+* {
+  font-family: 'Inter', sans-serif;
+  
+}
+
+
+
+.nav-link:hover{
+      font-weight: 500;
+}
+
+
+.role {
+  position: relative;
+  margin-top: 1rem;
+  text-align: center;     
+  font-family: 'Inter', sans-serif;
+}
+
+
+@media (min-width: 992px) {
+  .role {
+    font-size: 10rem;
+    position: absolute;
+    left: 2rem;
+    bottom: 3rem;
+    text-align: left;
+    margin-top: 0;
+   
+  }
+}
+
+
+@media (max-width: 991px) and (min-width: 768px) {
+  .role {
+    font-size: 3rem;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .role {
+    font-size: 2rem;
+    
+  }
+}
+
+.profile{
+  border-radius: 20px;
+}
+
+.profile:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}
+
+.card-hover:hover{
+      cursor: pointer;
+      background-color:  #e7f3ff;
+      transform: scale(1.05);
+      transition: 0.3s ease;
+}
+
+.exp:hover{
+     cursor: pointer;
+     transform: scale(1.05);
+     transition: 0.3s ease;
+     background-color: #e7f3ff;
+}
+
+.icon:hover{
+  transition: 0.3s ease;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
