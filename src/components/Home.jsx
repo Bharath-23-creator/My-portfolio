@@ -36,12 +36,12 @@ export default function Home() {
         </div>
       </nav>
      </div>
-     <h1 className='role display-1 fw-light 1h-1'>Frontend <br/> Developer.</h1>
+     <h1 className='role display-4 fw-light 1h-1'>AI-Powered<br/>Fullstack Developer.</h1>
      <div className="container mt-3 me-4">
      <div className="row">
     <div className="col-md-12 d-flex justify-content-end">
       <img 
-        src='/Profile.jpg'
+        src='/Profile.jpeg'
         className=" profile img-fluid shadow-lg"
         style={{ maxHeight:'350px',objectFit: "cover" }}
       />
@@ -51,7 +51,7 @@ export default function Home() {
     <div className="container text-end me-lg-5 me-md-3 me-2 mt-5">
       <div className="row">
         <div className="col fw-bold">
-          <p>Hi,I'm Bharath Gajjela, <br/> A Frontend developer <br/> creating intutive digital <br/> experiences.</p>
+          <p>Hi,I'm Bharath Gajjela, <br/> An AI-Powered Fullstack Developer <br/>Building intelligent digital solutions.</p>
         </div>
       </div>
     </div>

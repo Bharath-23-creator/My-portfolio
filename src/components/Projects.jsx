@@ -13,11 +13,7 @@ export default function Projects(){
                     instant search, and an admin dashboard. Deployed through a GitHub–Netlify CI/CD pipeline.</div>
                 </div>
                 <div className="col-12 col-md-4">
-                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Exide Store Webpage – Designed and developed a 
-                    fully functional e-commerce frontend using React.js 
-                   and Vite with responsive UI components. 
-                   Deployed the project on Vercel for seamless accessibility and 
-                   performance.</div> 
+                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Estores – E-Commerce Frontend – Developed a responsive e-commerce frontend application that provides a seamless online shopping experience through product browsing, searching, and an intuitive user interface.</div> 
                 </div>
                 <div className="col-12 col-md-4">
                     <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Personal Portfolio Website – Developed a 
@@ -25,6 +21,16 @@ export default function Projects(){
                         skills, education, experience, and projects. 
                         Designed a clean UI with modern components and deployed
                         the site for fast and seamless accessibility.</div>
+                </div>
+                <div className="col-12 col-md-4">
+                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Driver Drowsiness Detection System – 
+                       Developed a Driver Drowsiness Detection System to monitor driver alertness in 
+                       real time and help reduce fatigue-related road accidents by detecting signs of drowsiness.</div>
+                </div>
+                <div className="col-12 col-md-4">
+                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Meme Generator Web Application – 
+                        Developed a Meme Generator web application that allows users to 
+                        generate random memes and customize them with their own text, creating an interactive and engaging user experience.</div>
                 </div>
             </div>
             </div></section>

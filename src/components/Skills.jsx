@@ -33,20 +33,18 @@ export default function Skills(){
                 />       
                 </div>
                 <div className="col-4 col-md-2 mb-5">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
-                    className="w-50 img-fluid icon"
-                    />                 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" className="w-50 img-fluid icon"/>
+                </div>
+               <div className="col-4 col-md-2 mb-5">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" className="w-50 img-fluid icon"/>
                 </div>
                 <div className="col-4 col-md-2 mb-5">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-                    className="w-50 img-fluid icon" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" className="w-50 img-fluid icon"/>
                 </div>
                 <div className="col-4 col-md-2 mb-5">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
-                    className="w-50 img-fluid icon"
-                    />
-          
+                    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" className="w-50 img-fluid icon"/>
                 </div>
+                
             </div>
         </div>
         </section>

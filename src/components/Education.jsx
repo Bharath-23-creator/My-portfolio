@@ -11,12 +11,11 @@ export default function Education(){
                 <div className="col-12 col-md-4">
                     <div className="card h-100 w-100 shadow-lg card-hover">
                         <div className="card-body">
-                            <h1 className="card-title fw-bold">Under graduation</h1>
-                            <p className="card-text fw-semibold">B.Tech Final year - Computer Science and Engineering</p>
+                            <h1 className="card-title fw-bold">Graduated</h1>
+                            <p className="card-text fw-semibold">B.Tech - Computer Science and Engineering</p>
                             <p className="card-text fw-semibold">SR university, Warangal, Telangana, India</p>
                             <ul>
-                                <li>CGPA : 6.162/10</li>
-                                <li>No active backlogs</li>
+                                <li>Passed out with first class</li>
                             </ul>
                         </div>
                     </div>
