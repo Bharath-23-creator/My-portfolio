@@ -23,14 +23,20 @@ export default function Projects(){
                         the site for fast and seamless accessibility.</div>
                 </div>
                 <div className="col-12 col-md-4">
-                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Driver Drowsiness Detection System – 
-                       Developed a Driver Drowsiness Detection System to monitor driver alertness in 
-                       real time and help reduce fatigue-related road accidents by detecting signs of drowsiness.</div>
+                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Developed a full-stack Job Application Tracker to manage job applications, 
+                        with features to add, update, delete, search, and filter applications by company, 
+                        role, and status. Integrated a React.js frontend with Django REST APIs and MySQL for 
+                        efficient data management.</div>
                 </div>
                 <div className="col-12 col-md-4">
                     <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Meme Generator Web Application – 
                         Developed a Meme Generator web application that allows users to 
                         generate random memes and customize them with their own text, creating an interactive and engaging user experience.</div>
+                </div>
+                <div className="col-12 col-md-4">
+                    <div className="border p-3 rounded-3 h-100 w-100 shadow-lg exp">Built a full stack web app using React, Django, 
+                        and MySQL that generates recipes from a user’s available ingredients with the Gemini API, 
+                        and lets users save and manage their own recipes through secure, token-based login.</div>
                 </div>
             </div>
             </div></section>
